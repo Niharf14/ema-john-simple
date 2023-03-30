@@ -9,3 +9,18 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+
+.cart-container{
+    /* border: 2px solid #95A0A7; */
+    background-color: #FFE0B3;
+}
+.cart-container h4{
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #1C2B35;
+}
+.cart-info{
+    margin-left: 40px;
+}
